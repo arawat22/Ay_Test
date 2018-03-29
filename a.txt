@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6657-8DE7
+
+ Directory of C:\Users\ayushi.rawat\Documents\Ay_Test\Test
+
+29-03-2018  15:45    <DIR>          .
+29-03-2018  15:45    <DIR>          ..
+29-03-2018  15:45                 0 a.txt
+29-03-2018  14:23                24 README.md
+               2 File(s)             24 bytes
+               2 Dir(s)  188,007,546,880 bytes free
